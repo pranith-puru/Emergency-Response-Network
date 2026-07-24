@@ -147,7 +147,7 @@ The application displays:
 BE – Information Science & Engineering  
 The National Institute of Engineering, Mysuru
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/pranith-puru
 
 ---
 
