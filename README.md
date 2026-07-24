@@ -60,7 +60,7 @@ Emergency-Response-Network/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Emergency-Response-Network.git
+git clone https://github.com/pranith-puru/Emergency-Response-Network.git
 ```
 
 Move into the project folder:
